@@ -6,7 +6,7 @@ public class Hello {
 
 		System.out.println("Hello java");	
 		
-		//
+		//아무거나
 		
 	}
 
